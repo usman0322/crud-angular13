@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "xx",
+      "category": "Fruits",
+      "freshness": "items",
+      "price": 2,
+      "comment": "s",
+      "date": "2022-05-31T19:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "phone",
+      "category": "Electronics",
+      "freshness": "items",
+      "price": 222,
+      "comment": "good",
+      "date": "2022-06-01T19:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "machine",
+      "category": "Electronics",
+      "freshness": "items",
+      "price": 33,
+      "comment": "god",
+      "date": "2022-06-08T19:00:00.000Z",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
